@@ -4,6 +4,12 @@
 body {
 }
 
+.tw-color {
+    background-color: #1DA1F2;
+}
+.tg-color {
+    background-color: #0088CC;
+}
 .pancake-color {
     background-color: rgb(111, 208, 217);
 }
